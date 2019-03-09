@@ -1,6 +1,10 @@
 Nano SVG
 ==========
 
+This is a fork of the original project at [github.com/memononen/nanosvg](https://github.com/memononen/nanosvg).  
+Minor changes were made to the project to make it easier to integrate in [TGUI](https://github.com/texus/TGUI).  
+Although the original project was written in C, this fork requires c++11.
+
 ## Parser
 
 ![screenshot of some splines rendered with the sample program](/example/screenshot-1.png?raw=true)
